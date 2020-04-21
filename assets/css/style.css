@@ -42,20 +42,20 @@ body {
 }
 .aboutMe {
     background-color: white;
-    /* width: 960px; */
+    width: 100%;
     /* height: 600px; */
     /* margin: auto; */
-    /* margin-top: 2em; */
-    /* margin-bottom: 2em; */
-    /* padding: 1rem; */
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 1rem;
 }
 .Portfolio {
     background-color: white;
     color: limegreen;
     /* width: 960px; */
     /* margin: auto; */
-    margin-top: 1em;
-    margin-bottom: 5em;
+    margin-top: 2em;
+    margin-bottom: 4em;
     padding-bottom: 2em;
 }
 .card {
@@ -92,19 +92,19 @@ body {
     height: 100%;
     /* margin: auto; */
     margin-top: 2.15em;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     padding: 1rem;
 }
 .contactForm {
     color: limegreen;
 }
 .profilePic {
-    /* padding: 0em 0em 2em 1em; */
+    padding: 0em 0em 1em .2em;
     /* width: 100%; */
     /* height: 100%; */
 }
 .about {
-    /* padding: .75em 0em .5em 1em; */
+    padding: .2em 0em .2em .5em;
     color: limegreen;
 }
 .paragraph {
@@ -138,4 +138,5 @@ footer {
 .messageBar {
     width: 100%;
     background-color: rgb(240, 240, 240);
+    margin-bottom: 1em;
 }
