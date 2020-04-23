@@ -64,3 +64,32 @@ footer {
         height: 100%;
     }
   }
+@media only screen and (min-width: 992px) {
+    .header {
+        height: 60px;
+    }
+    #JClohosey {
+        width: 75%;
+        height: 60px;
+        align-items: center;
+        text-align: center;
+        font-size: 1em;
+        margin: 0em 0em 0em 3em;
+        padding-top: .3em;
+    }
+    .topnav {
+        width: 83%;
+        height: 60px;
+        align-items: center;
+        text-align: center;
+        font-size: .675em;
+        padding-top: .6em;
+        padding-left: 6.5em;
+        margin-right: 0em;
+    }
+    .topnav a:nth-child(1),
+    .topnav a:nth-child(2) {
+        border-right: 1px solid darkgray;
+        padding-right: .25em;
+    }
+  }
