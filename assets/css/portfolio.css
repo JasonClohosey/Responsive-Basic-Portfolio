@@ -29,8 +29,18 @@
     padding: .6em 0em 0em 1em;
 }
 @media only screen and (min-width: 768px) {
-    
+    .card img {
+        height: 200px;
+}
 }
 @media only screen and (min-width: 992px) {
-
+    .Portfolio {
+        width: 800px;
+        margin: auto;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .card img {
+        height: 200px;
+}
 }
