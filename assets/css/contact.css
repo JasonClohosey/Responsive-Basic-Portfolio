@@ -1,0 +1,25 @@
+.contact {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    /* margin: auto; */
+    margin-top: 2.15em;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+.contactForm {
+    color: limegreen;
+}
+.nameBar {
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+}
+.emailBar {
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+}
+.messageBar {
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+    margin-bottom: 1em;
+}
