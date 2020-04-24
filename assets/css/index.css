@@ -29,3 +29,11 @@
         margin-bottom: 2rem;
     }
 }
+@media only screen and (min-width: 1200px) {
+    .aboutMe {
+        width: 960px;
+        margin: auto;
+        margin-top: 3.5rem;
+        margin-bottom: 3.5rem;
+    }
+}
