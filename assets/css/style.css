@@ -52,7 +52,23 @@ body {
     color: black;
     text-align: center;
     border: solid 1px black;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 0px 4px grey;
 }
+  .custom-btn:hover {
+      background-color: darkgreen;
+      color: rgb(150, 150, 150);
+    }
+  
+  .custom-btn:active {
+    background-color: black;
+    color: limegreen;
+    box-shadow:  none;
+    transform: translateY(4px);
+  }
 footer {
     background-color: black;
     border-top: 3px solid limegreen;
