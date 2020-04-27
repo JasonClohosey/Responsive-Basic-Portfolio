@@ -6,6 +6,7 @@
     margin-top: 2em;
     margin-bottom: 4em;
     padding-bottom: 2em;
+    box-shadow: 10px 10px 7px gray;
 }
 .card {
     /* border: 5px solid red; */

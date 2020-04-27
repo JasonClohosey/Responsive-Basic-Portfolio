@@ -6,11 +6,10 @@
     margin-top: 2em;
     margin-bottom: 2em;
     padding: 1rem;
+    box-shadow: 10px 10px 7px gray;
 }
 .profilePic {
     padding: 0em 0em 1em .2em;
-    /* width: 100%; */
-    /* height: 100%; */
 }
 .about {
     padding: .2em 0em .2em .5em;
