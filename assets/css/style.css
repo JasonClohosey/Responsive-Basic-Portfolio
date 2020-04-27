@@ -13,6 +13,9 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
 }
+.nav-btn {
+
+}
 .name-div {
     padding: 0;
 }
@@ -35,6 +38,15 @@ body {
         border-right: 1px solid darkgray;
         padding-right: .25em;
     }
+.nav-btn {
+    cursor: pointer;
+}
+.nav-btn:hover {
+    color: lightgreen;
+}
+.nav-btn:active{
+    color: green;
+}
 #JClohosey {
     color: limegreen;
     background-color: rgb(0, 0, 0);
